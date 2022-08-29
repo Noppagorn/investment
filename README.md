@@ -1,2 +1,2 @@
 # investment
-  create investment project
+  My investment project
